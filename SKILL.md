@@ -32,6 +32,9 @@ triggers:
   - CSGO
   - YY交易
   - YY商城
+  - YY游仓
+  - yy游仓
+  - 游仓
   - mall.yy.com
 argument-hint: "[game name] [category]"
 ---
