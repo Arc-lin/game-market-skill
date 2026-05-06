@@ -1,7 +1,7 @@
 # game-market
 
-> YY 游戏交易市场查询 Skill，适用于 [oh-my-claudecode](https://github.com/oh-my-claudecode/oh-my-claudecode)。
-
+> YY 游戏交易市场查询 Skill
+> 
 在 Claude Code 对话中直接查询游戏账号、代练、陪练、道具、游戏币等商品信息，无需切换浏览器。需要实际买卖时一键跳转到 **[YY 游仓](https://mall.yy.com?pageId=20000)**。
 
 ---
