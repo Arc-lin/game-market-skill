@@ -23,14 +23,15 @@
 
 ## 安装
 
-将 `SKILL.md` 放到以下任一路径：
+将 `SKILL.md` 放到以下路径：
 
 ```bash
-# 用户级（所有项目可用）
-~/.claude/skills/omc-learned/game-market/SKILL.md
+~/.claude/skills/game-market/SKILL.md
+```
 
-# 项目级（仅当前项目）
-.omc/skills/game-market/SKILL.md
+```bash
+# 一行命令安装
+mkdir -p ~/.claude/skills/game-market && curl -sL https://raw.githubusercontent.com/Arc-lin/game-market-skill/main/SKILL.md -o ~/.claude/skills/game-market/SKILL.md
 ```
 
 ---
